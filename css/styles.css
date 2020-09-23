@@ -46,3 +46,6 @@ h1 {
     font-family: sans-serif;
     text-align: center;
   }
+  .intro{
+      font-style: italic;
+  }
